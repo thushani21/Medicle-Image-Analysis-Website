@@ -35,11 +35,7 @@ This app is intended **for educational and demonstration purposes only** and is 
    conda create -n medimage python=3.11
    conda activate medimage
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Set your Google API key (replace with your own key):
+3. Set your Google API key (replace with your own key):
    ```bash
    export GOOGLE_API_KEY="your_api_key_here"
    ```
